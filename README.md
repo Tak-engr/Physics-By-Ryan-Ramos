@@ -8,7 +8,7 @@ Welcome to my personal physics discussion log — where I write and post thought
 
 | Title | PDF | Google Docs |
 |-------|-----|-------------|
-| Physics Discussion 1 | [View PDF](./Physics_Discussion_1.pdf) | [View on Google Docs]([https://docs.google.com/document/d/your-doc-link-here/view](https://docs.google.com/document/d/10za8ry97cuhASc315FuZJh1IVEzKM-EoONfEq1D706o/edit?usp=sharing)) |
+| Physics Discussion 1 | [View PDF](./Physics_Discussion_1.pdf) | [View on Google Docs]((https://docs.google.com/document/d/10za8ry97cuhASc315FuZJh1IVEzKM-EoONfEq1D706o/edit?usp=sharing)) |
 
 ---
 
