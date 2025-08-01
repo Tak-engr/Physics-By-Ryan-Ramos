@@ -1,6 +1,6 @@
 # Physics Discussions Archive
 
-Welcome to my personal physics discussion log — where I write and post thoughts based on what I’m learning as an Aerospace Engineering major.
+Welcome to my personal physics discussion log! I will be posting PDFs of my thoughts on physics and other things related to Aerospace Engineering as an Aerospace Engineering major!
 
 ---
 
